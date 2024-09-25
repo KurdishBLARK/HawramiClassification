@@ -1,12 +1,6 @@
 # HawramiClassification
-Soarni-Nas 
-Researcher: Sana Isam Advisor: Hossein Hassani 
-Subdialect recognition of speech in Sorani KurdishThe data of this repository are samples of what has been presented in our paper “Where Are You From? Let
-Me Guess! Subdialect Recognition of Speeches in Sorani Kurdish) ” that describes the research on the Sorani
-Kurdish subdialect recgonition. More than 120 individuals were interewed (a list of the names of those whoc
-concented on their name to be pulically share is found here) of whom about 30 hours of speech collected.
-This repository shows samples of the data because the size of the wav files does not allow us to share them
-here. We are plannin to share the whole dataset with the community very soon. 
+ 
+Researcher: Aram Khaksar Advisor: Hossein Hassani 
+
 If you use this data please cite it as: 
-Isam, S. and Hassani, H., 2024. Where Are You From? Let Me Guess! Subdialect Recognition of Speeches in
-Sorani Kurdish. arXiv preprint arXiv:2404.00124
+Khaksar, A. and Hassani, H., 2024. Shifting from endangerment to rebirth in the Artificial Intelligence Age: An Ensemble Machine Learning Approach for Hawrami Text Classification. arXiv preprint arXiv:2404.00124
