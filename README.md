@@ -1,4 +1,4 @@
-# HawramiClassification
+# Hawrami Text Classification
  
 Researcher: Aram Khaksar Advisor: Hossein Hassani
 
